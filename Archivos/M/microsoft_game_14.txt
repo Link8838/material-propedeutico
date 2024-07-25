@@ -1,0 +1,2 @@
+ReCore
+Un juego de acción y aventuras donde los jugadores controlan a Joule, acompañada por sus compañeros robóticos, en su lucha por sobrevivir en un mundo post-apocalíptico.

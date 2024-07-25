@@ -1,0 +1,2 @@
+Resogun
+Un juego de disparos en 2.5D donde los jugadores controlan una nave espacial que debe rescatar a los últimos humanos y destruir oleadas de enemigos en mundos cilíndricos.

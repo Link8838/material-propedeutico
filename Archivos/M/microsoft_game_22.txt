@@ -1,0 +1,2 @@
+Microsoft Flight Simulator
+Un simulador de vuelo que permite a los jugadores pilotar una variedad de aviones en recreaciones detalladas del mundo real, con condiciones meteorológicas y tráfico aéreo en tiempo real.

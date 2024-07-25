@@ -1,0 +1,2 @@
+Kirby Star Allies
+Un juego de plataformas donde Kirby puede reclutar enemigos como aliados para ayudarlo en su misión de salvar Dream Land.

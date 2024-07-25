@@ -1,0 +1,2 @@
+Viva Piñata
+Un juego de simulación y estrategia donde los jugadores gestionan un jardín y atraen a piñatas vivas, cuidando de ellas y personalizando su entorno.

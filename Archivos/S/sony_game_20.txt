@@ -1,0 +1,2 @@
+LittleBigPlanet 3
+Un juego de plataformas y creación donde los jugadores pueden diseñar y compartir sus propios niveles, controlando personajes con habilidades únicas.

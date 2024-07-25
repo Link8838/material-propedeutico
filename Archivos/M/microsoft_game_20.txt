@@ -1,0 +1,2 @@
+Bleeding Edge
+Un juego de combate multijugador en equipo, donde los jugadores eligen entre una variedad de personajes con habilidades únicas y luchan en arenas futuristas.

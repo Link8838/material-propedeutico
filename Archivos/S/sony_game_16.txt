@@ -1,0 +1,2 @@
+Knack
+Un juego de plataformas y acción donde los jugadores controlan a Knack, una criatura compuesta de reliquias, en su lucha contra una invasión goblin.
